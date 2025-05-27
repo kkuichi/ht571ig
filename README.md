@@ -20,7 +20,7 @@ Transformátorové učenie DistilBERT na anglickom datasete.
    - Stiahnite si súbory `train.csv` a `test.csv`
      jigsaw-toxic-comment-classification-challenge/
   
-2. Slovenské toxické komentáre (slovenčina)**  
+2. Slovenské toxické komentáre (slovenčina)
    - Navštívte GitHub repozitár so slovenskými komentármi
      https://github.com/yourusername/slovak-toxic-comments](https://huggingface.co/datasets/TUKE-KEMT/hate_speech_slovak)
    - Stiahnite súbory `slovak_train.csv` a `slovak_test.csv` a uložte ich do priečinka  
