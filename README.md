@@ -13,5 +13,5 @@ Transformátorové učenie DistilBERT na anglickom datasete.
 
 ## Dokumentácia
 
-- [Príloha B – Systémová príručka](Priloha B.pdf)  
-- [Príloha C – Zadávací list](Priloha C.pdf)
+- [Príloha B – Systémová príručka](Priloha_B.pdf)  
+- [Príloha C – Zadávací list](Priloha_C.pdf)
